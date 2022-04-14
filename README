@@ -1,10 +1,10 @@
-# Lightweight and simple argument parser #
+# Lightweight and simple argument parser 
 
 Good for fast prototyping. Simply reads the params and provides a map with the parameter name and value. 
 
-## Installation ##
+## Installation 
 Include the *arguments.hpp* file. Example of the usage is in the *test.cpp*. \
-The example can be run as: \
+The example can be run as: 
 ```
 ./test -e --lightsaber_power 3.1415 --nazghul_count 42 --spell "Brisingr!"
 ```
@@ -17,7 +17,7 @@ Brisingr!
 
 ```
 
-## Supported features ##
+## Supported features 
 - takes everything starting with "-" or "--", excluding numbers (anything that starts with "-[0-9]" or "--[0-9]"), as a parameter name
 - allows implicit casting of the result to basic types with exceptions if not possible
 - automatically detects "-h" and "--help" and prints the help string
