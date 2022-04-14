@@ -14,7 +14,6 @@ I am here
 I am 3.1415 m heigh!
 I am scared 42 times!
 Brisingr!
-
 ```
 
 ## Supported features 
