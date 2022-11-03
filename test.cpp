@@ -1,6 +1,4 @@
-#include <string>
-#include <iostream>
-import arguments;
+#include "arguments.hpp"
 
 int main(int argc, char *argv[])
 {
