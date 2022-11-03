@@ -1,3 +1,5 @@
+module;
+
 #include <iostream>
 #include <stdexcept>
 #include <vector>
@@ -5,7 +7,9 @@
 #include <string>
 #include <exception>
 
-class Arguments
+export module arguments;
+
+export class Arguments
 {
     public:
     class Argument
