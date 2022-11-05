@@ -15,7 +15,7 @@ I am 3.1415 m heigh!
 I am scared 42 times!
 Brisingr!
 ```
-Check out commit [b6f3fdc](https://github.com/ichlubna/arguments/tree/d6db7660a459b820b8d06b3c47787fca299080f9) for non-modularized standard header hpp version.
+Check out commit [d6db766](https://github.com/ichlubna/arguments/tree/d6db7660a459b820b8d06b3c47787fca299080f9) for non-modularized standard header hpp version.
 
 ## Supported features 
 - takes everything starting with "-" or "--", excluding numbers (anything that starts with "-[0-9]" or "--[0-9]"), as a parameter name
